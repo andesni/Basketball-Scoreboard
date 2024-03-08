@@ -1,3 +1,15 @@
+# Installation
+To start with this program, you'll need an IDE compatible with Javascript, HTML and CSS like Visual Code. An extention like JS JSX Snippets is suggested. 
+
+# Usage
+A program to help calculate the scores of home and guest teams in a basketball game.
+
+
+
+https://github.com/andesni/Basketball-Scoreboard/assets/93085549/fd0789be-4f87-4400-95d0-98128e874066
+
+
+
 # co4414800b3ee301dde799e3a
 
 Quick start:
